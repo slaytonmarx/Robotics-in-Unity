@@ -1,0 +1,2751 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 / HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3052 MB
+    Driver:   22.19.677.257
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments\Travel+x\testOne_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.974066 ms
+C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperiments
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scrivener Successfully Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IsolatedStorageException: Could not find file "C:\Users\stnma\OneDrive\Projects\Programming\Personal Portfolio\The Shop\ProjectExperimentsProjectInformation.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenText (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x00000] in <filename unknown>:0 
+  at Scrivener.chooseExperimentNameAndId () [0x00000] in <filename unknown>:0 
+  at Director.initializeDirector () [0x00000] in <filename unknown>:0 
+  at Director.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 117c -> priority: 1 
+  Thread -> id: 2494 -> priority: 1 
+  Thread -> id: 29c0 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.updateAscendentOutput () [0x00000] in <filename unknown>:0 
+  at Director.selectAscendent () [0x00000] in <filename unknown>:0 
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.updateAscendentOutput () [0x00000] in <filename unknown>:0 
+  at Director.selectAscendent () [0x00000] in <filename unknown>:0 
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Director.run () [0x00000] in <filename unknown>:0 
+  at Director.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

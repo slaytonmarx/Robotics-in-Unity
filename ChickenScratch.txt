@@ -1,0 +1,26 @@
+Have a text file which stores a config for testing, which can be loaded whenever you start, and allow you to save a config for testing.
+
+Do we have all modules allow for multibot testing? Yes, but bake that into module itself.
+
+Generally, have everything be done by the script, so whenever something new is added, all you have to do is do "Gameobject thing = new gameobject" then add component script
+
+How much do I want them to rely on the director and globals? String file could just read in a list of globals, thus allowing everything to run pretty smoothly. Ok, so everything is tied to globals in some way, that's fine.
+
+Ok, so we have a director, while keeps track of the globals and loads the module, and the module, which will do all the heavy lifting, and generally be the center of attension.
+
+Things that any module has to do before they can get their robot running/essential points which should be covered in the module parent method.
+
+What is actually unique about each module?
+
+Make a program which trains for increased improvement over time, so if it doesn't grow fast enough it scraps it.
+
+/* -----
+         * */
+
+Make experiment prototypes. Make everything have a gameobject, make everything editible from within editor, however, allow it to find things they need if nothing is given
+
+How would the subnet work and keep track of what sensors it was using? How would the main net keep track of those?
+
+Each net can have specific neurons assigned to it, as well as specific sensors and effectors. These are assigned based on tags
+
+Options and very specific things are public. If it's public you can expect that it's either there for you to see, or there for you to set.

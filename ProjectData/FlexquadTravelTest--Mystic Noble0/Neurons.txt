@@ -1,0 +1,15 @@
+0
+0=Sensor
+1=Sensor
+2=Effector
+3=Effector
+4=Effector
+5=Effector
+6=Effector
+7=Effector
+8=Effector
+9=Effector
+10=Effector
+11=Effector
+12=Effector
+13=Effector

@@ -1,0 +1,44 @@
+read through every ron
+
+make fitness function independent, but able to "scan" for things which it needs to judge fitness (gotten through tags)
+
+add input output for neurons and synpases
+add other body types
+add other environments
+add pruning ect to neurons and synapses
+
+To Do Today: Day 11
+	- Allow user to add a prototype to director to test that prototype. (Made in Hour 1, from 12 to 1)
+	- Make subnet neurons (Making now, should get food though soon)
+	- Turning bot (Made in two house, from 1 to 3)
+To Do Today: Day 12
+	- Finish subnets (Done)
+	- Make DistanceSensors (Done)
+	- Make Subnets (Done)
+	- Make Moving Stage (Done)
+	- Make Visualizers
+
+Larger Goals
+	Make the program user friendly so people don't have to go through the editor to do things
+	Make the program clearer and have error checking more
+	Make videos of the program
+
+Visualizer in net function, in a displayNet() method.
+Change color of net depending on input value
+change color of synapses depending on connected neuron value, modified by the synapse.
+At each neuron fire update the display
+foreach neuron have a neuronImage whose color is updated everytime the neuron fires.
+We have a displayImage and a color image. Color image is called everytime we update, display image makes all of the things and populates the neuronDisplay class when it's called by hitting a bottom, but if it's destroyed it destorys itself. Pruning a synapse causes it to be destroyed, same with a neuron, it's marked for destruction.
+(Draw Image is in director update. If the image is null but the bool is true, draw the image)
+(The image itself is in the neuralnet class)
+(Image is updated whenever a neuron fires)
+
+send in a neuron display function to a
+
+Add growth tags to everything which will allow different bodies to be randomly grown.
+If one net has been dominant for over 25 generations, wipe out the rest of the nets and randomize them heavily from the net that was doing well
+	make a way for units to be destroyed easily and without hassle, make a way for modules to be destroyed easily and without hassle.
+	Do this tomorrow
+
+Add animator type to descriptions, if stuff doesn't 
+Move all globals from globals to inside relevant scripts

@@ -1,0 +1,17 @@
+Any test requires the following items:
+	1. A Disembodied GameObject with the following components:
+		a. Unit script
+		b. FitnessFunction script of the type relevant to the test
+	2. One or more robot GameObjects with the following components:
+		a. A robot script
+		b. At least one sensor and effector
+	3. One stage GameObject with the following components:
+		a. A stage script
+
+The fitness function, sensors, and effectors, may require further alterations
+be made in the editor. The Unit is the only component which directly interfaces
+with the director, however all other scripts can access the director and global
+values via their rootUnit property.
+
+Additionally, make sure that all of your disembodied objects have a position at
+(0,0,0), otherwise they'll appear in odd locations when instantiated by the director.
